@@ -57,3 +57,6 @@ The goal is to maintain a structured collection of practical exercises that demo
 ---
 
 This repository is a reflection of my learning journey in Data Science, demonstrating practical skills, problem-solving, and data-driven insights.
+
+---
+## Author 
