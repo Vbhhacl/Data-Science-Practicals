@@ -4,7 +4,6 @@ This repository contains all my Data Science practical assignments completed as 
 The goal is to maintain a structured collection of practical exercises that demonstrate the application of Python, data analysis, and machine learning concepts on real-world datasets.
 
 ---
-
 ## 📘 Practicals Overview
 
 ### 🔹 Practical 1 – Introduction to Data Science
